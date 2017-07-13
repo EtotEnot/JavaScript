@@ -1,2 +1,2 @@
 
-JS example open code
+JS example open code!
