@@ -1,3 +1,3 @@
 
 JS example open code!
-<p> some text </p>
+<h1> some text </h1>
